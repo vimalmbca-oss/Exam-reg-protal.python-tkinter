@@ -72,8 +72,10 @@ def personal():
         try:
             db = pm.connect(host='localhost',user='root',password='python',db='reg')
             cur = db.cursor()
-            query = """INSERT INTO reg1(Name,email,phone,password,aadharno,yourname,mobilenumber,address,gender,yourage,dateofbirth,fathername,institution,higherqualification,yearofpassing,nationality,mothertongue,otherlanguage,yourstate,yourcity)VALUES (%s, %s, %s, %s, %s, %s, %s, %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
-            values=(user_data["Name"],user_data["email"],user_data["phone"],user_data["password"],user_data["aadharno"],user_data["yourname"],user_data["mobilenumber"],user_data["address"],user_data["gender"],user_data["yourage"],user_data["dateofbirth"],user_data["fathername"],user_data["institution"],user_data["higherqualification"],user_data["yearofpassing"],user_data["nationality"],user_data["mothertongue"],user_data["otherlanguage"],user_data["yourstate"],user_data["yourcity"])
+            query = """INSERT INTO reg1(Name,email,phone,password,aadharno,yourname,mobilenumber,address,gender,yourage,dateofbirth,fathername,institution,higherqualification,
+            yearofpassing,nationality,mothertongue,otherlanguage,yourstate,yourcity)VALUES (%s, %s, %s, %s, %s, %s, %s, %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
+            values=(user_data["Name"],user_data["email"],user_data["phone"],user_data["password"],user_data["aadharno"],user_data["yourname"],user_data["mobilenumber"],
+                    user_data["address"],user_data["gender"],user_data["yourage"],user_data["dateofbirth"],user_data["fathername"],user_data["institution"],user_data["higherqualification"],user_data["yearofpassing"],user_data["nationality"],user_data["mothertongue"],user_data["otherlanguage"],user_data["yourstate"],user_data["yourcity"])
             cur.execute(query, values)
             db.commit()
             db.close()
@@ -769,6 +771,7 @@ t.Button(vh,text="REAPPLY",bg="#0353a4",foreground="white",font=("georgia bold",
 
 rg.tkraise()
 main.mainloop()
+
 
 
 
