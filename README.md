@@ -67,7 +67,10 @@ CREATE TABLE reg1 (
     yourcity VARCHAR(50)
 );
 ```
-3.connect the data basebase to python
+3.connect the database to python:
+ -"host='localhost',user='root',password='python',db='reg'"
+ those are database hostname,username,userpassword and database name.
+ 
 
 
 
