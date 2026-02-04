@@ -68,9 +68,17 @@ CREATE TABLE reg1 (
 );
 ```
 3.connect the database to python:
- -"host='localhost',user='root',password='python',db='reg'"
- those are database hostname,username,userpassword and database name.
- 
+-use database hostname,username,userpassword(create pass while open the database) and database name("reg").
+```
+"host='localhost',user='root',password='python',db='reg'"
+```
+
+---
+
+## 💻Screenshots
+
+### main Page
+![main](images/home.png)
 
 
 
