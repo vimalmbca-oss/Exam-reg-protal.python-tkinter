@@ -76,9 +76,7 @@ CREATE TABLE reg1 (
 ---
 
 ## 💻Screenshots
-
-### main Page
-<img src="img src="screenshots/home.png" width="600">
+<img width="1366" height="768" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/7c745788-7165-4f2e-900b-4292f3cd6038" />
 
 
 
