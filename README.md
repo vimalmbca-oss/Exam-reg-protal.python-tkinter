@@ -78,7 +78,7 @@ CREATE TABLE reg1 (
 ## 💻Screenshots
 
 ### main Page
-![main](project-screenshot/Screenshot (29).png)
+<img src="img src="screenshots/home.png" width="600">
 
 
 
