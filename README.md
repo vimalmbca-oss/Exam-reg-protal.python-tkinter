@@ -76,12 +76,27 @@ CREATE TABLE reg1 (
 ---
 
 ## 💻Screenshots
-<img width="1366" height="768" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/7c745788-7165-4f2e-900b-4292f3cd6038" />
 
+### main page
+<img width="500" height="500" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/7c745788-7165-4f2e-900b-4292f3cd6038" /> <img width="500" height="500" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/538fd214-3632-4f7c-84c1-ea51bc686a68" />
 
+### mail varification and regisration pages
+<img width="500" height="500" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/08895917-703c-468d-a9c5-b1c0c56b14d8" /> <img width="500" height="500" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/bd4e48fa-6ef4-4f6b-be7c-334b72f0deba" />
 
+### personal and other-detials page 
+<img width="500" height="500" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/c52f8b94-e22d-4a07-b1fd-f4bb6e6bf022" /> <img width="500" height="500" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/a46a5f1a-4b1b-4a63-94e3-e2edb557602f" />
 
+## form page
+<img width="500" height="500" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/c3d17381-8dda-49f3-9624-d55a0ad39be8" /> <img width="500" height="500" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/637d7b16-a5b2-4645-afb1-5d42bbf8867a" />
 
+## login and user-home page
+<img width="500" height="500" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/b8cd6d9e-13d6-4b40-a6c8-2bc94e3b7aa3" /> <img width="500" height="500" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/f5f98f5f-a7ea-4dec-984a-877ae3f604fd" />
+
+### personal ,other-details and form page
+<img width="500" height="500" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/349d8713-ce52-48dd-bf76-ca7e1dcf1166" /> <img width="500" height="500" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2c919a7d-47d1-4501-9e1b-239e176e541d" />
+<img width="500" height="500" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/c4390da7-9443-48f2-be3c-78960716ec45" />
+
+-with the help of login we all retrive and update our data 
 
 
 
